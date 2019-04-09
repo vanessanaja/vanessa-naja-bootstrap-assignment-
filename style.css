@@ -1,0 +1,27 @@
+body    {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1  {
+    font-family: 'Playfair Display', serif;
+}
+img {
+    padding: .5em;
+}
+
+.nav-item   {
+    background-color: #0FFFF2;
+}
+.nav-link   {
+    color: #FF4CBF;
+}
+.jumbotron  {
+    background-color: #0FFFF2;
+}
+.btn  {
+    background-color: #0FFFF2;
+}
+.needs-white-space  {
+    padding-top:   1em;
+}
